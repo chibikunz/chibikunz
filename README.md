@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @chibikunz
-- ##### <img src="https://static.wikitide.net/polandballwiki/thumb/3/35/SovietUnionballDelirium.png/640px-SovietUnionballDelirium.png"  width="15%" /> <img src="https://github.com/user-attachments/assets/538dfb22-4222-4535-91ce-ed45d67db3ee" width="22%" /> 
+ <img src="https://static.wikitide.net/polandballwiki/thumb/3/35/SovietUnionballDelirium.png/640px-SovietUnionballDelirium.png"  width="15%" /> <img src="https://github.com/user-attachments/assets/538dfb22-4222-4535-91ce-ed45d67db3ee" width="22%" /> 
 
 
 
